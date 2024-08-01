@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-item {
+    padding-right: 60px;
+  }
+
+  .fafa {
+    font-size: 25px;
+    margin-right: 20px;
+  }
+
+  .a {
+    color: black;
+  }
+
+  .pfont {
+    font-size: 13px;
+    text-align: left;
+    color: grey;
+
+  }
+
+  .leftInden {
+    font-size: 13px;
+
+  }
+
+  .square {
+    color: orangered;
+    font-size: 7px;
+  }
+
+  .Learn {
+    color: orangered;
+    font-size: 13px;
+
+  }
+
+  .square1 {
+    color: orangered;
+    font-size: 17px;
+  }
+
+  .div-hover:hover {
+    border-color: orangered;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+
+  .selectBtn {
+    width: 30px;
+    height: 20px;
+    border-radius: 7px;
+    background-color: gray;
+    display: block;
+  }
+
+  input[type="checkbox"] :checked {
+    background-color: orangered;
+    color: white;
+  }
